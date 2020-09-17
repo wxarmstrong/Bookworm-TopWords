@@ -1,3 +1,6 @@
+// Code by Nishtha Thakur
+// via https://www.tutorialspoint.com/cplusplus-program-to-implement-trie
+
 #include <string>
 #include <vector>
 
